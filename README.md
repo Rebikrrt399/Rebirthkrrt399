@@ -4,31 +4,27 @@
 
 <div align="center">
 
-# 👋 Hi, I'm [YOUR_NAME]
+# 👋 Hi, I'm Bikram Bera
 
-### [YOUR_ROLE]
+### AI Engineer
 
-<h3>[YOUR_TAGLINE]</h3>
+<h3>Building scalable backend systems and intelligent AI-powered applications</h3>
 
 <br>
 
-<a href="https://github.com/[YOUR_GITHUB]">
+<a href="https://github.com/Rebikrrt399">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="[YOUR_LINKEDIN]">
+<a href="www.linkedin.com/in/bikram-bera-8502a2303">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="[YOUR_INSTAGRAM]">
+<a href="https://www.instagram.com/bikub2005">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<a href="[YOUR_WEBSITE]">
-  <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="mailto:[YOUR_EMAIL]">
+<a href="mailto:bikrambera628@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -50,7 +46,7 @@
 
 ```yaml
 Current Role:
-  - [YOUR_ROLE]
+  - AI Engineer and Full stack Developer
 
 Currently Building:
   - Scalable Backend Systems
